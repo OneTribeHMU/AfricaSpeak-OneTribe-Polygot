@@ -1,0 +1,19 @@
+africanspeaks/
+├── public/
+│   ├── index.html
+│   ├── favicon.ico
+│   └── manifest.json
+├── src/
+│   ├── components/
+│   │   ├── Header.js
+│   │   ├── Home.js
+│   │   ├── LanguageList.js
+│   │   ├── TeacherList.js
+│   │   └── Schedule.js
+│   ├── App.js
+│   ├── index.js
+│   └── index.css
+├── package.json
+├── README.md
+├── .gitignore
+└── tailwind.config.js
