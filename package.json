@@ -19,6 +19,9 @@
     "build": "react-scripts build",
     "test": "react-scripts test",
     "eject": "react-scripts eject"
-  },
-  // ... rest of your package.json
+ {
+  // ... other package.json contents
+  "engines": {
+    "node": ">=14.0.0"
+  }
 }
